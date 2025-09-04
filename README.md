@@ -1,2 +1,2 @@
 # More-Of-The-Same-SCPs
-A plugin for Exiled to let spawn more of the same SCP depending on the configuration
+This Exiled SCP:SL plugin adds that they can spawn more than one scp under the circumstances of the configs, all configurable.
